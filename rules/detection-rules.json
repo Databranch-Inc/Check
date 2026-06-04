@@ -9,7 +9,6 @@
     "^https:\\/\\/login\\.windows\\.net$",
     "^https:\\/\\/login\\.partner\\.microsoftonline\\.cn$",
     "^https:\\/\\/login\\.live\\.com$",
-    "^https:\\/\\/login\\.insurepass\\.com$",
     "^https:\\/\\/([a-zA-Z0-9-]+\\.)?ciamlogin\\.com$"
   ],
   "microsoft_domain_patterns": [
@@ -61,7 +60,8 @@
       "^https:\\/\\/(?:[^/]*\\.)?zoom\\.us(/.*)?$",
       "^https:\\/\\/github\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.com(/.*)?$",
-      "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$"
+      "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$",
+      "^https:\\/\\/login\\.insurepass\\.com$"
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
