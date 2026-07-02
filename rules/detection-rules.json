@@ -64,7 +64,8 @@
       "^https:\\/\\/[^/]*\\.insurepass\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\app\\.door\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\s3\\.amazonaws\\.com(/.*)?$", 
-      "^https:\\/\\/[^/]*\\pennlive\\.com(/.*)?$"
+      "^https:\\/\\/[^/]*\\pennlive\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\trimble\\.com(/.*)?$"
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
